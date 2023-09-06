@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/edu/up/isgc/cg/raytracer/lights/Light.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/edu/up/isgc/cg/raytracer/objects/Camera.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/edu/up/isgc/cg/raytracer/objects/IIntersectable.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/edu/up/isgc/cg/raytracer/objects/Model3D.java" charset="windows-1252" />
+  </component>
+</project>
